@@ -1,0 +1,11 @@
+{
+    "settings": {
+        "IP": "70.93.180.17",
+        "Language": "en",
+        "Accent": "GB",
+        "City" : "Anaheim",
+        "Country" : "UnitedStates",
+        "Athan": "http://www.islamcan.com/audio/adhan/azan16.mp3",
+        "Volume": 0.5
+    }
+}
